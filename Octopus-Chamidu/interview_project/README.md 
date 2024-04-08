@@ -1,0 +1,5 @@
+Instructions
+1. Go to the project directory of interview_project
+2. "python3 manage.py runserver" execute this command and the server is listening on the port 8000.
+3. direct to view-data/ to visualize the tables.
+
